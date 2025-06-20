@@ -408,14 +408,13 @@ This report reflects Ant Group's perspective as a technology enterprise, utilizi
 
 
 
+Authors:
 
-Full Author List:
+Yaya Xia, Richard Bian, Peggy Dong, Xu Wang (AntOSS)
 
-Xiaoya Xia, Sikang Bian, Chao Dong, Xu Wang (AntOSS)
+Frank Zhao, Fanyu Han, Jiaheng Peng, Zhen Zhang, Will Wang (X-lab)
 
-Shengyu Zhao, Fanyu Han, Jiaheng Peng, Zhen Zhang, Wei Wang (X-lab)
+Editors:
 
-Editor:
-
-Sikang Bian, Jipei Wang
+Richard Bian, Jipei Wang, Lin Zhu
 
