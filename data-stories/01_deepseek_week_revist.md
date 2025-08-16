@@ -1,3 +1,6 @@
+作者：夏小雅，蚂蚁开源
+时间：2025-08-10
+
 在 DeepSeek-V3、R1 模型给国内外带来震荡的余波还远远没有消散的时候，DeepSeek 用一周的时间，也就是 2025 年 2 月 24 至 28 日，进行了一场直播式的开源周，将其模型架构的主要模块陆续开源了出来，和社区共享他们在系统和硬件上进行极致优化的实践。在五天的时间里，陆续放出了 6 个仓库，它们分别是：
 
 + 算子库 FlashMLA：[https://github.com/deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
@@ -184,7 +187,7 @@
 | [<u><font style="color:#1155cc;">yangsijia-serena</font></u>](https://github.com/yangsijia-serena) | deepseek-ai/FlashMLA | 1 | Bytedance |
 
 
-这 32 位开发者的阵容还是非常豪华的，不乏头部厂商和顶尖高校，还有明星项目 vLLM 的核心维护者。其中，7 位来自高校（清华尤多，此外，还有浙大、人大和 CMU 的同学），6 位（实际是 5 位，咱们蚂蚁的毅松同学在 GitHub Profile 中填写的还是 Alibaba）来自阿里。在一些具体项目中可以看到部分厂商的集中发力：DeepGEMM 有三位来自英伟达的贡献者，FlashMLA 有两位来自字节的贡献者，3FS 有两位来自分布式存储厂商 XSKY（星辰天和） 的贡献者。**而 DeepEP 有两位来自蚂蚁的贡献者，分别是超算团队的建豪（**[**<u><font style="color:#1155cc;">alpha-baby</font></u>**](https://github.com/alpha-baby)**）和毅松（**[**<u><font style="color:#1155cc;">wangfakang</font></u>**](https://github.com/wangfakang)**），**他们在 DeepEP 中一共合入了 5 条 PR：[#116](https://github.com/deepseek-ai/DeepEP/pull/116)，[#266](https://github.com/deepseek-ai/DeepEP/pull/266)， [#356](https://github.com/deepseek-ai/DeepEP/pull/356)；[#153](https://github.com/deepseek-ai/DeepEP/pull/153)，[#311](https://github.com/deepseek-ai/DeepEP/pull/311)。
+这 32 位开发者的阵容还是非常豪华的，不乏头部厂商和顶尖高校，还有明星项目 vLLM 的核心维护者。其中，7 位来自高校（清华尤多，此外，还有浙大、人大和 CMU 的同学），6 位（实际是 5 位，一位蚂蚁的同学在 GitHub Profile 中填写的还是 Alibaba）来自阿里。在一些具体项目中可以看到部分厂商的集中发力：DeepGEMM 有三位来自英伟达的贡献者，FlashMLA 有两位来自字节的贡献者，3FS 有两位来自分布式存储厂商 XSKY（星辰天和） 的贡献者。**而 DeepEP 有两位来自蚂蚁的贡献者，分别是（**[**<u><font style="color:#1155cc;">alpha-baby</font></u>**](https://github.com/alpha-baby)**）和（**[**<u><font style="color:#1155cc;">wangfakang</font></u>**](https://github.com/wangfakang)**），**他们在 DeepEP 中一共合入了 5 条 PR：[#116](https://github.com/deepseek-ai/DeepEP/pull/116)，[#266](https://github.com/deepseek-ai/DeepEP/pull/266)， [#356](https://github.com/deepseek-ai/DeepEP/pull/356)；[#153](https://github.com/deepseek-ai/DeepEP/pull/153)，[#311](https://github.com/deepseek-ai/DeepEP/pull/311)。
 
 ****
 
@@ -230,11 +233,6 @@
 
 DeepSeek 开源周发布的几个项目中，你们最关注的是哪一（几）个项目？后续的项目迭代、社区发展是否符合你们的期待？欢迎评论区留言，谈谈从你们视角的看法。
 
-
-
-
-
-此处也再次 @，来介绍下你们在 DeepEP 中贡献的是什么模块，以及参与社区的经历吧。另外，记得更新一下 profile 啊。
 
 
 
