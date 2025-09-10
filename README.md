@@ -2,7 +2,11 @@
 
 🌐️ [English Report](/20250527_LLM_Dev_Report_EN.md) | [中文报告](/20250527_LLM_Dev_Report_CN.md)
 
-![https://antoss-landscape.my.canva.site](/Figures/2.png)
+![https://antoss-landscape.my.canva.site](/reports/250913_llm_landscape/figures/llm_development_landscape.png)
+
+![https://antoss-landscape.my.canva.site](/reports/250913_llm_landscape/figures/large_models_landscape.png)
+
+
 
 
 **Open Source LLM Development Landscape 2025** online address: 
