@@ -1,6 +1,6 @@
 # LLM Open Source Landscape and Trends
 
-🌐️ [English Report](/20250527_LLM_Dev_Report_EN.md) | [中文报告](/20250527_LLM_Dev_Report_CN.md)
+🌐️ [English Report](/reports/250527_llm_landscape/250527_llm_report_en.md) | [中文报告](/reports/250527_llm_landscape/250527_llm_report_cn.md)
 
 ![https://antoss-landscape.my.canva.site](/reports/250913_llm_landscape/figures/llm_development_landscape.png)
 
