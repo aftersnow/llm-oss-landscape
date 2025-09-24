@@ -2,9 +2,9 @@
 
 🌐️ [English Report](/reports/250527_llm_landscape/250527_llm_report_en.md) | [中文报告](/reports/250527_llm_landscape/250527_llm_report_cn.md)
 
-![https://antoss-landscape.my.canva.site](/reports/250913_llm_landscape/figures/llm_development_landscape.png)
+![LLM Development Landscape](/reports/250913_llm_landscape/figures/llm_development_landscape.png)
 
-![https://antoss-landscape.my.canva.site](/reports/250913_llm_landscape/figures/large_models_landscape.png)
+![Large Models Landscape](/reports/250913_llm_landscape/figures/large_models_landscape.png)
 
 
 
