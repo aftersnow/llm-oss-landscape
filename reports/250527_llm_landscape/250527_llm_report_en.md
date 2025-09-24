@@ -2,7 +2,7 @@
 
 <font style="color:rgb(38, 38, 38);">According to </font>[OpenRank](https://open-digger.cn/docs/user_docs/metrics/global_openrank)<font style="color:rgb(38, 38, 38);"> data from </font>[OpenDigger](https://github.com/X-lab2017/open-digger)<font style="color:rgb(38, 38, 38);">, AI surpassed Cloud Native in 2023 to become the most influential technology domain in terms of community collaboration on GitHub. Looking at the growth curves of the five major tech domains (AI, Cloud Native, Database, Frontend, and Operating System) over the past decade, AI projects have seen rapid growth, especially after 2022. AI’s total influence score overtook Frontend technologies in 2017, accelerated post-2022, and surpassed the declining Cloud Native in 2023 to claim the top spot.</font>
 
-![](/figures/1.png)
+![](./figures/1.png)
 
 ## The LLM Development Ecosystem: A Snapshot
 ![https://antoss-landscape.my.canva.site](/figures/2.png)
@@ -29,9 +29,9 @@ Below are the details of projects that are ranked in the Top 20 of OpenRank amon
 
 
 
-![](/figures/3.png)
+![](./figures/3.png)
 
-![](/figures/4.png)
+![](./figures/4.png)
 
 
 
@@ -47,7 +47,7 @@ After observing over 100 open-source projects in the field of large model develo
 
 
 
-![](/figures/5.jpg)  
+![](./figures/5.jpg)  
 
 
 Developers, empowered by AI, are now operated as "super individuals" to rapidly building open-source projects around trending topics. They leverage their technical skills to create high caliber open source projects which capture public attention swiftly. On the other hand, we see projects fade into obscurity as they couldn't keep up with the developer expectations, or took the wrong path. This cycle of rapid creation and dissolution, driven by a focus on speed and iteration, mirrors the essence of a Hackathon, where we build software in limited time from several hours to several days.
@@ -76,7 +76,7 @@ The same was observed in open source ecosystem. We’ve curated an “Open-Sourc
 
 
 
-![](/figures/6.png)
+![](./figures/6.png)
 
 
 
@@ -92,18 +92,18 @@ As model capabilities evolve, the application development ecosystem is undergoin
 
 **The decline of AI Search projects**: AI search was one of the earliest applications, with products like Perplexity posing a real challenge to Google. Open-source projects like Morphic.sh and Scira attempted to break the monopoly with localized deployments and customizable APIs. However, their survival chances were low. The generalization of model capabilities, such as GPT-4 and Gemini 2.0, which can autonomously handle web retrieval, information synthesis, and answer generation, is squeezing the market for specialized search tools.
 
-![](/figures/7.png)
+![](./figures/7.png)
 
 
 
 **The rise of AI Coding projects**: On the other hand, advancements in model capabilities are revolutionizing software development. Claude 3.7 Sonnet’s prowess in coding and web development has ushered in a new era of “Vibe Coding”, where developers describe scenarios in natural language, and models autonomously handle requirements analysis and code implementation. Other than commercial products like Cursor and Windsurf, IDE plugins like Continue and Cline are thriving open-source options, each with over 3,000 community contributors and steadily rising OpenRank scores. On a side note, Ant Group also open-sourced an AI coding platform, [CodeFuse](https://github.com/codefuse-ai), in 2023. It supports developers throughout the entire software development lifecycle, enabling AI-native software creation. While it doesn’t appear in this landscape, it’s definitely worth checking out.
 
-![](/figures/8.png)
+![](./figures/8.png)
 
 
 
 ### Dynamic competition across ecosystem niches
-![](/figures/9.png)
+![](./figures/9.png)
 
 + **<font style="color:rgb(51, 51, 51);">The divergent trajectories of Agent Frameworks:</font>**<font style="color:rgb(51, 51, 51);"> At the two extremes of this growth spectrum are application platforms like Dify and application development frameworks like LangChain. Though both projects were agentic, their divergence of their approaches and paradigms exemplify the ecosystem's rapid iteration and extraordinary vitality. A special mention is warranted for </font>[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)<font style="color:rgb(51, 51, 51);">, the open-source project initiated by Ant Group and the only one featured in the ecosystem map: it is an Agentic development platform that integrates AI application development organically into big data application scopes. The project quickly garned attention from academic and industrial developers immediately after its 2023 launch, fostering widespread collaborative participation on the global stage.</font>
 
@@ -125,21 +125,21 @@ These include emerging paradigms, such as **Agent Frameworks**, AI-native commun
 
 
 
-![](/figures/10.png)
+![](./figures/10.png)
 
 
 
 <!-- ### The Agent Frameworks Boom Diverged in 2025 -->
-![](/figures/headers/1_EN.png)
+![](./figures/headers/1_EN.png)
 
-![](/figures/11.png)
-
-
-
-![](/figures/12.gif)
+![](./figures/11.png)
 
 
-![](/figures/13.png)
+
+![](./figures/12.gif)
+
+
+![](./figures/13.png)
 
 
 <font style="color:rgb(13, 18, 57);">From 2023 to 2024, "all-in-one" frameworks like LangChain dominated the market with their pioneering task orchestration capabilities and rich tool integrations. During this period, we see a huge number of new Agent development frameworks emerged, many focusing on specific features such as tool calling, RAG integration, long-context memory, or ReAct planning. Everyone seems to be hopping into a glorious Odyssey. </font>
@@ -173,7 +173,7 @@ These include emerging paradigms, such as **Agent Frameworks**, AI-native commun
 <font style="color:rgb(13, 18, 57);">It is foreseeable that the future development of AI agent frameworks will exhibit "Matthew Effect": platforms with robust features and well-established ecosystems will attract more enterprise users. Feedbacks from these sophisticated users will further drive real improvements of these platforms, creating a positive feedback loop for evolution. This process favors projects like Dify whcih maintains technical leadership.</font>
 
 <!-- ### <font style="color:rgb(13, 18, 57);">Standard Protocol Layer: The Strategic Battleground</font> -->
-![](/figures/headers/2_EN.png)
+![](./figures/headers/2_EN.png)
 
 
 
@@ -197,7 +197,7 @@ These include emerging paradigms, such as **Agent Frameworks**, AI-native commun
 + <font style="color:rgb(13, 18, 57);">In April, Google open-sourced the Agent2Agent (A2A) protocol. Unlike MCP, which focuses on enabling individual agents, A2A establishes standards for communication and interoperability between multiple agents or agentic applications.</font>
 + <font style="color:rgb(13, 18, 57);">In May, CopilotKit launched the Agent-User Interaction (AG-UI) protocol, which rapidly gained traction with 2.2K GitHub stars in its first week. AG-UI standardizes the interaction layer between backend tools and frontend user interfaces in agent systems.</font>
 
-![](/figures/14.gif)
+![](./figures/14.gif)
 
 
 
@@ -218,7 +218,7 @@ These include emerging paradigms, such as **Agent Frameworks**, AI-native commun
 
 
 <!-- ### <font style="color:rgb(13, 18, 57);">The Irresistible Vibe Coding Software Development Paradigm</font> -->
-![](/figures/headers/3_EN.png)
+![](./figures/headers/3_EN.png)
 
 
 
@@ -226,7 +226,7 @@ Will developers be the first group to be replaced by AI? This is the question. I
 
 
 
-![](/figures/15.png)
+![](./figures/15.png)
 
 
 
@@ -242,7 +242,7 @@ Our extensive research into prominent closed-source AI development tools and lea
 
 When analyzing top GitHub projects along dimensions of intelligence sophistication and target user expertise, we've mapped these trending AI coding projects across four quadrants:
 
-![](/figures/16.png)
+![](./figures/16.png)
 
 
 
@@ -256,25 +256,25 @@ Existing systems struggle with semantic validation, multi-language coordination,
 
 <font style="color:rgb(51, 51, 51);">When enjoying the current prosperity of AI coding tools, it worths drawing our attention to the once-prominent initiatives like Devika, TabNine, and GPT-Pilot. The decline of these projects not only highlights the natural evolution of the AI development landscape but also reveals a deeper market disparity problem, as divergent technical priorities and user needs carve distinct niches within the AI coding behavior. Established commercial products (e.g., GitHub Copilot, Devin, and Cursor) and open-source tools provided too good of an offering that met majority of the user needs, leaving projects with homogenized features or slow iteration (such as Devika and GPT-Pilot) struggling to survive. Meanwhile, prominent open-source projects like GPT Engineer, which later evolved into the commercialized product Lovable through successful open-source practices, have demonstrated successful synergies between open-source innovation and commercialization. Notably, GPT Engineer, once a star project in AI application development, is now abandoned due to the team’s shift in focus, for good.</font>
 
-![](/figures/17.png)
+![](./figures/17.png)
 
 ### 
 <!-- ### <font style="color:rgb(13, 18, 57);">The Shifting Boundaries of Vector Indexing and Storage</font> -->
 
-![](/figures/headers/4_EN.png)
+![](./figures/headers/4_EN.png)
 
 
 
 The evolution of vector databases can be described as a journey **"from explosive hype to rational consolidation."** Around February 2023, projects like Qdrant and Chroma saw an unprecedented surge in attention, each amassing over 5,000 GitHub stars. However, this initial frenzy **failed to sustain long-term momentum.**
 
 
-![](/figures/18.png)
+![](./figures/18.png)
 
 
 
 <font style="color:rgb(51, 51, 51);">During the overall development period from 2024 to 2025, the attention gained by most projects has stabilized with minimal variation, showing no significant disparities. On the OpenRank trend, Milvus, an early open-source project under the neutral stewardship of the LF AI & Data Foundation, has consistently maintained a stable leading position. Meanwhile, the broader technical landscape appears to function like parallel tracks, advancing steadily forward in unison.</font>
 
-![](/figures/19.png)
+![](./figures/19.png)
 
 
 
@@ -303,7 +303,7 @@ Different from the highly competitive environment at the application layer, the 
 
 
 <!-- ### <font style="color:rgb(13, 18, 57);">The Evolution of Multimodal Data Governance in the Age of LLMs</font> -->
-![](/figures/headers/5_EN.png)
+![](./figures/headers/5_EN.png)
 
 
 
@@ -315,35 +315,35 @@ In data lake table formats, **Apache Iceberg, Apache Hudi, Apache Paimon**, and 
 
 
 
-![](/figures/20.png)
+![](./figures/20.png)
 
 
 
 
 The metadata governance and data catalog space sees **OpenMetadata** and **DataHub** maintaining their leadership with increasingly sophisticated features, while newcomers like **Apache Gravitino** and LF AI & Data's **Unity Catalog** emerge as potential disruptors, hinting at the formation of next-generation unified platforms for data and AI governance. Notably, these tools are expanding their focus to include unstructured data and AI assets, aligning with the broader data governance needs of the LLM era.  
 
-![](/figures/21.png)
+![](./figures/21.png)
 
 
 When examining the collaborative networks across all projects in the Landscape, it becomes apparent that big data systems currently occupy a relatively peripheral position in the LLM development ecosystem. This may stem from the inherently less interconnected nature of big data developers compared to their AI counterparts. Nevertheless, this observation underscores that the convergence of big data and AI ecosystems remains a work in progress.
 
 Looking ahead, as foundational models become more deeply embedded within data infrastructure, we may witness tighter integration between these domains, whether through big data projects delivering high-quality data for machine learning tasks, or through models providing intelligent support for data governance. This bidirectional synergy could fundamentally reshape how we approach data management in the age of LLMs.
 
-![](/figures/22.png)
+![](./figures/22.png)
 
 
 
 
 <!-- ### <font style="color:rgb(13, 18, 57);">The Ongoing Horse Racing in Model Serving and Inference</font> -->
-![](/figures/headers/6_EN.png)
+![](./figures/headers/6_EN.png)
 
-![](/figures/23.png)
+![](./figures/23.png)
 
 
 
 As large language models move into widespread deployment, three critical factors have emerged as the core deal-makers or deal-breakers. They are **inference efficiency, resource utilization, and deployment flexibility**. Since 2023, the market has seen an explosion of model serving tools competing head-to-head over performance and ecosystem expansion velocity, a heated race that shows no signs of cooling. The Top 10 ranking list reshuffles a lot, with new contenders like Tsinghua University's KTransformers (July 2024) and NVIDIA's Dynamo (March 2025) continually challenging the existing status quo.
 
-![](/figures/24.gif)
+![](./figures/24.gif)
 
 <font style="color:rgb(64, 64, 64);">While it seems to be anyone's game at this moment, we do see a potential duopoly forming in this field:</font>**<font style="color:rgb(64, 64, 64);"> vLLM and SGLang, currently the two most prominent inference engines in the LLM space</font>**<font style="color:rgb(64, 64, 64);">, </font>**<font style="color:rgb(64, 64, 64);">converged to be the top choices and was also recommended by DeepSeek.</font>**<font style="color:rgb(64, 64, 64);"> </font><font style="color:rgb(51, 51, 51);">According to OpenRank trends, the communities of vLLM and SGLang continue to expand. In Q4 2024, vLLM's growth temporarily plateaued, while SGLang experienced rapid iteration, achieving an average OpenRank growth rate of 12% in the same quarter. However, as 2025 began, vLLM released its v1 major version with a core architecture overhaul, reigniting its growth trajectory. This shift triggered a new 'AI arms race' in the inference engine ecosystem: in Q1 2025, vLLM's OpenRank grew at 17%, while SGLang surged to 31%.</font>
 
@@ -376,19 +376,19 @@ As large language models move into widespread deployment, three critical factors
 
 + KTransformers generated a huge wave of attention in February 2025 when Tsinghua's KVCache.AI team demonstrated running full 671B parameter models (DeepSeek-R1/V3) on consumer hardware (24GB GPU + 382GB RAM) with 3-28x speedups. The achievement triggered a 34x OpenRank spike, drawing 736 contributors and surpassing 10K GitHub stars within weeks, a testament to the demand for breakthroughs in extreme-scale inference.
 
-![](/figures/25.png)
+![](./figures/25.png)
 
 
 ### 
 <!-- ### <font style="color:rgb(13, 18, 57);">The PyTorch-Centric Training Ecosystem</font> -->
-![](/figures/headers/7_EN.png)
+![](./figures/headers/7_EN.png)
 
-![](/figures/26.jpg)
+![](./figures/26.jpg)
 
 
 PyTorch has undeniably become the dominant force and de facto standard in today's LLM development landscape. Its modular and lightweight open design propelled it past TensorFlow in 2020, establishing itself as the foundational infrastructure for deep learning in the era of large language models, while frameworks like TensorFlow, MXNet, and Caffe faded into obsolescence.
 
-![](/figures/27.png)
+![](./figures/27.png)
 
 
 
