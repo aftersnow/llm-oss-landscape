@@ -258,7 +258,7 @@ Existing systems struggle with semantic validation, multi-language coordination,
 
 ![](./figures/17.png)
 
-### 
+### The future beyond AI coding assistants
 <!-- ### <font style="color:rgb(13, 18, 57);">The Shifting Boundaries of Vector Indexing and Storage</font> -->
 
 ![](./figures/headers/4_EN.png)
@@ -379,7 +379,7 @@ As large language models move into widespread deployment, three critical factors
 ![](./figures/25.png)
 
 
-### 
+### The PyTorch-centric training ecosystem
 <!-- ### <font style="color:rgb(13, 18, 57);">The PyTorch-Centric Training Ecosystem</font> -->
 ![](./figures/headers/7_EN.png)
 

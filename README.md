@@ -9,7 +9,7 @@
 
 
 
-**Open Source LLM Development Landscape 2025** online address: 
+**Open Source LLM Development Landscape 2025** online address:
 
 - https://antoss-landscape.my.canva.site
 
