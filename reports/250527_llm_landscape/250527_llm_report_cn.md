@@ -32,7 +32,9 @@
 
 最终，呈现下面这张 **<font style="color:rgb(28, 30, 33);">2025 年大模型开源开发生态全景图，</font>**<font style="color:rgb(28, 30, 33);">截止 2025 年 5 月发布时，全景图上收录了 </font>**<font style="color:rgba(253,58,184,1);">135 </font>**<font style="color:rgb(28, 30, 33);">个项目，涵盖了</font>智能体应用层和模型基础设施层一共 **<font style="color:rgba(253,58,184,1);">19</font>** 个技术领域。虽然我们非常努力想从中挖掘更多信息，但我们也完全明白，社区的数据既不全面也不完全准确，而且也不一定能反映出很多最新最优秀的技术变化，我们只希望这个报告能给大家一些有益的参考，有什么错漏之处和其他值得补充的观点，也欢迎大家反馈给我们。
 
-![地址： https://antoss-landscape.my.canva.site](/figures/2.png)
+![2025年大模型开源开发生态全景图](/figures/2.png)
+
+查看全景图请访问：[https://antoss-landscape.my.canva.site](https://antoss-landscape.my.canva.site)
 
 
 

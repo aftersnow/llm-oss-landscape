@@ -5,7 +5,9 @@
 ![](./figures/1.png)
 
 ## The LLM Development Ecosystem: A Snapshot
-![https://antoss-landscape.my.canva.site](/figures/2.png)
+![LLM Development Ecosystem Landscape 2025](/figures/2.png)
+
+View the landscape online: [https://antoss-landscape.my.canva.site](https://antoss-landscape.my.canva.site)
 
 
 
