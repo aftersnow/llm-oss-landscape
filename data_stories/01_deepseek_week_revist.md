@@ -146,7 +146,7 @@
 | zhaohaidao | deepseek-ai/3FS | 1 |  |  | zhaohaidao2008@hotmail.com | cos(cluster operating system) engineer |
 
 
-###### 
+###### 附：6 个仓库的 PR 贡献者明细（可折叠）
 在这 6 个项目中，统计到有 PR 合入的开发者大约为 90 位。根据开发者自己填写的地理位置信息，有将近一半的开发者（42 位）来自中国。部分开发者会贡献到多个项目中去，例如，来自来自阿布扎比的 A-transformer 同学在 3FS、DeepGEMM 和 EPLB 中分别提交了 1、1、2 个 PR。算子通信库 DeepEP 和矩阵运算库 DeepGEMM 的关联似乎十分紧密：除了项目作者 [**LyricZhao**](https://github.com/LyricZhao)** **之外，还有三位开发者同时在这两个项目中合入了 PR：来自 Facebook 的 dzhulgakov，来自 “太阳系”的 fzyzcjy，和来自北京的 sleepcoo。
 
 以下是填写了公司信息的社区开发者们，可以看看他们都来自于哪些组织：
